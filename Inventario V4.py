@@ -9,9 +9,7 @@ class Producto:
 
 class Promocion:
     def __init__(self, nombre, productos_incluidos, precio_normal, precio_promocion):
-        """
-        productos_incluidos: lista de tuplas (Producto, cantidad)
-        """
+        
         self.nombre = nombre
         self.productos_incluidos = productos_incluidos
         self.precio_normal = precio_normal
