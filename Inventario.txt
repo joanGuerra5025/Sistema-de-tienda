@@ -1,0 +1,12 @@
+PRODUCTOS - CAFETERÍA
+
+1. Huevos (cubeta x 30)       - $18.000
+2. Leche (1 litro)             - $4.500
+3. Pan tajado (500 g)          - $6.000
+4. Café (250 g)                - $12.000
+5. Azúcar (1 kg)               - $5.000
+6. Chocolate en polvo (250 g)  - $8.000
+7. Galletas (paquete)          - $3.500
+8. Queso (500 g)               - $14.000
+9. Mantequilla (250 g)         - $7.000
+10. Arepas (paquete x 10)      - $9.000
